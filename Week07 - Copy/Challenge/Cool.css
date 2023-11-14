@@ -1,0 +1,44 @@
+* {
+    width: 45%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Shed {
+    width: 260px;
+}
+
+#inputyards{
+    width: 260px;
+    height: 66px;
+    border: 5px #980;
+    outline: none;
+    font-size: 26px;
+    vertical-align: middle;
+}
+
+
+#Burn {
+    height: 55px;
+    width: 55px;
+    border: 5px #780;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.burn {
+    margin-top: 26px;
+}
+
+
+.paragraph-cooling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 21px;
+}
+
+.underline {
+    text-decoration: line-through;
+  
+
+}

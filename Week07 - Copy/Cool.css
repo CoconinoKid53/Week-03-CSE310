@@ -1,0 +1,45 @@
+* {
+    width: 45%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.Shed {
+    width: 260px;
+}
+
+#inputyards{
+    width: 260px;
+    height: 66px;
+    border: 5px #922;
+    outline: none;
+    font-size: 26px;
+    vertical-align: middle;
+}
+
+
+#SCORE {
+    height: 55px;
+    width: 55px;
+    border: 5px #489;
+    vertical-align: middle;
+    font-size: 30px;
+}
+
+.score {
+    margin-top: 26px;
+}
+
+
+.paragraph-cooling {
+    margin: 0;
+    cursor: pointer;
+    font-size: 21px;
+}
+
+.underline {
+    text-decoration: underline;
+  
+
+}
+/* this is the coolest project ever written in JavaScript /*111
